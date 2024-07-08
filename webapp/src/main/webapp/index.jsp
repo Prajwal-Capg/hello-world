@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning (Adding this line to test the build after poll scm configuration) </h1>
+   <h1> Thankyou, Happy Learning (Adding this line to test the build after poll scm configuration and playbook) </h1>
 
   
 </form>
